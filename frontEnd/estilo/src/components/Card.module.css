@@ -1,0 +1,12 @@
+.card{
+   border-radius: 5px;
+   padding: 50px;
+    border-color: blue;
+    background-color: rgb(185, 185, 185);
+    margin: 30px;
+}
+
+.texto{
+    color: black;
+}
+
